@@ -1,4 +1,4 @@
-Praticando a criação de classes, simulando um cadastro de cliente com conta bancária em Python.
+Simulando um cadastro de cliente com conta bancária em Python.
 Utilização de Programação orientada a objetos (POO);
 Classes;
 Método construtor.

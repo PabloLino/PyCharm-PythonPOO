@@ -28,7 +28,7 @@ Dentro da orientação a objetos temos os modificadores Public, Protected e Priv
 Para o Public e Protected utilizamos na implementação o underline "_" na frente do nome, já o Private que apenas sua classe tenha acesso a um atributo ou método, usa-se o underline duplo "__" na frente do nome.
 
 Um decorator é um objeto invocável, uma função que aceita outra função como parâmetro (a função decorada).
-função Property permite que você declare uma função para obter o valor de um atributo.
+função Property permite que você declare uma função para obter o valor de um atributo, porém não apliquei conceito até o momento.
 
 
 ![image](https://github.com/user-attachments/assets/19b083e4-e22d-4d31-a22c-e230768ba073)

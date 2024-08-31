@@ -31,6 +31,7 @@ Um decorator é um objeto invocável, uma função que aceita outra função com
 função Property permite que você declare uma função para obter o valor de um atributo, porém não apliquei conceito até o momento.
 
 
+--imagens conceituais do inicio do projeto, o tratamento da aplicação está diferente atualmente, existe também tratamento para condições onde o valor do saldo da conta é zero.
 ![image](https://github.com/user-attachments/assets/19b083e4-e22d-4d31-a22c-e230768ba073)
 ![image](https://github.com/user-attachments/assets/73c68d24-5dfb-4ea0-89bb-60eed94d9e6f)
 ![image](https://github.com/user-attachments/assets/ca99d0c7-54e3-407c-bd33-afa090c34e34)

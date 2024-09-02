@@ -11,7 +11,20 @@ class Conta:
 
     def set_saldo(self, saldo):
         if saldo < 0:
-            print("ATENÇÃO: Seu saldo está negativo")
+            print("\nATENÇÃO: Seu saldo está negativo")
             self.saldo = saldo  # Define saldo como 0 se o valor for negativo
         else:
             self.saldo = saldo
+
+    def saque(self, valor):
+        if self.saldo >= valor:
+            self.saldo -= valor
+            print("Saque realizado com sucesso")
+        else:
+            print("Saque não realizado, saldo insuficiente, você tentou sacar o valor de R${:.2f}".format(valor))
+
+    def deposita(self, valor):
+        self.saldo += valor
+
+    def extrato(self):
+        print("Cliente:",self.titular+", Saldo atual: R$",self.get_saldo())

@@ -5,6 +5,7 @@ class Cliente:
 
     #Encapasulamento, vou adicionar um "_" em nome e cpf, tornando-os privados.
     #Ainda podem ser acessados, mas não é o ideal tendo em vista a Convenção em python.
+    #Agora podemos observar a restrição na classe main.
 
     #Metodo get
     def get_nome(self):

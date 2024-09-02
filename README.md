@@ -20,8 +20,11 @@ função Property permite que você declare uma função para obter o valor de u
 
 
 --imagens conceituais do inicio do projeto, o tratamento da aplicação está diferente atualmente, existe também tratamento para condições onde o valor do saldo da conta é zero.
+Saída:
+![image](https://github.com/user-attachments/assets/a18d6c8e-837f-4ea2-994a-f88bcfda5028)
+Classes:
 ![main](https://github.com/user-attachments/assets/0fa44d66-c40a-42f5-ba9e-8f4a22800459)
 ![conta](https://github.com/user-attachments/assets/b6746399-682e-4732-9d3b-40a76f39eab7)
 ![cliente](https://github.com/user-attachments/assets/77cbf03c-b596-44ce-bab8-05ed27be8983)
-![image](https://github.com/user-attachments/assets/a18d6c8e-837f-4ea2-994a-f88bcfda5028)
+
 

@@ -23,7 +23,6 @@ função Property permite que você declare uma função para obter o valor de u
 
 Saída:
 ![image](https://github.com/user-attachments/assets/ba7fe86a-6451-49eb-ab66-24348a7df091)
-
 Classes:
 ![main](https://github.com/user-attachments/assets/0fa44d66-c40a-42f5-ba9e-8f4a22800459)
 ![conta](https://github.com/user-attachments/assets/b6746399-682e-4732-9d3b-40a76f39eab7)
